@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bleTest</string>
+    <string name="unkonwnDeviceName">未知设备</string>
+    <string name="unkonwnDeviceUUID">未知特征值</string>
+</resources>
